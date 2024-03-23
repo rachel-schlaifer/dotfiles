@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rachelschlaifer9@gmail.com
+	name = Rachel Schlaifer
